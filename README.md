@@ -1,50 +1,48 @@
-# Hi there, I'm Hamza! 👋
+# 👋 Welcome to My GitHub!
 
-Welcome to my GitHub profile! I'm a passionate software developer and a proud student at [42 Amman](https://www.42network.org/campus/42-amman/), a revolutionary coding school that emphasizes peer-to-peer, project-based learning without traditional teachers or lectures. This unique approach has empowered me to develop a diverse set of projects, some of which are showcased below.
-
-## 🛠️ Notable Projects
-
-Here are some of the projects I've worked on during my time at 42 Amman:
-
-### [libft](https://github.com/hamza10755/libft)
-**Description:** A custom implementation of essential C standard library functions. This foundational project involved recreating functions like `strlen`, `strcpy`, and `malloc`, deepening my understanding of C programming and memory management.&#8203;:contentReference[oaicite:0]{index=0}
-
-### [ft_printf](https://github.com/hamza10755/ft_printf)
-**Description:** :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
-
-### [get_next_line](https://github.com/hamza10755/get_next_line)
-**Description:** :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-
-### [minitalk](https://github.com/hamza10755/minitalk)
-**Description:** :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-
-### [so_long](https://github.com/hamza10755/so_long)
-**Description:** :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
-
-### [push_swap](https://github.com/hamza10755/push_swap)
-**Description:** :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
-
-## 🎓 About 42 Amman
-
-:contentReference[oaicite:11]{index=11} :contentReference[oaicite:12]{index=12} :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
-
-## 🔧 Technologies & Tools
-
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Makefile](https://img.shields.io/badge/-Makefile-000?&logo=Makefile)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-
-## 📈 GitHub Stats
-
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza10755&show_icons=true&theme=default)
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/your-twitter-handle)
+Hello! I'm **Hamza**, a student at [42 Amman](https://42amman.jo/), currently diving deep into the world of low-level programming, algorithms, and systems engineering. This GitHub is a collection of my journey through the **42 Curriculum**.
 
 ---
 
-*Note: Replace `your-linkedin-profile` and `your-twitter-handle` with your actual LinkedIn and Twitter profile URLs.*
+## 📚 Featured Projects
 
+### 🧠 Libft
+A custom implementation of standard C library functions. This project taught me memory management, pointer arithmetic, and building reliable low-level code from scratch.
+
+### 🧩 get_next_line
+A function that reads a line from a file descriptor, handling buffer management and memory allocation cleanly and efficiently.
+
+### 🔍 ft_printf
+A recreation of the standard `printf` function in C, supporting flags, width, precision, and multiple conversion specifiers.
+
+### 🧵 Born2beroot
+A project focused on setting up and securing a Linux server. I learned about user management, firewalls, SSH configuration, and enforcing strong password policies.
+
+### 📡 Minitalk
+A small messaging program that sends data from client to server using UNIX signals. This was an intro to signal handling and asynchronous communication in Unix.
+
+### 💻 so_long
+My first graphical game using the MiniLibX library. This project combined graphics programming with map parsing and event-driven design.
+
+### 🐚 Minishell
+A simplified shell written in C. This taught me about parsing, executing commands, handling pipes, redirections, and process management.
+
+---
+
+## 🛠 Skills & Tools
+
+- **Languages**: C, Bash, Makefile
+- **Tools**: Vim, Git, GCC, Valgrind
+- **Concepts**: Memory management, Process handling, Signals, System calls, File I/O
+
+---
+
+## 📫 Contact
+
+- GitHub: [hamza10755](https://github.com/hamza10755)
+- 42 Profile: [42 Network](https://42amman.jo/)
+- Email: _(hamza10755@gmail.com)_
+
+---
+
+Thanks for stopping by! 🌟
