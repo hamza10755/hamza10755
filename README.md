@@ -37,16 +37,18 @@ A simplified shell written in C. This taught me about parsing, executing command
 
 ---
 
-## 📄 My CV
-
-[![CV](https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge)](https://github.com/Oalananz/Oalananz/blob/main/hamza_CV_improved.pdf)
-
----
 ## 📫 Contact
 
 - GitHub: [hamza10755](https://github.com/hamza10755)
 - 42 Profile: [42 Network](https://42amman.jo/)
 - Email: _(hamza10755@gmail.com)_
+
+
+---
+
+## 📄 My CV
+
+[![CV](https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge)](https://github.com/hamza10755/hamza10755/blob/main/hamza_CV_improved.pdf)
 
 ---
 
